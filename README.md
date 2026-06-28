@@ -1,4 +1,4 @@
-# [LatticeMC]
+# LatticeMC
 
 Three Monte Carlo studies of statistical and lattice field theory systems.
 
