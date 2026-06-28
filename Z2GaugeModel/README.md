@@ -6,7 +6,7 @@ confined and deconfined phases of the 3D Z2 lattice gauge theory.
 ## Theoretical Background
 
 The Z2 lattice gauge theory exhibits both a confined and a 
-deconfined phase. Since gauge symmetry is local, the 
+deconfined phase. Since gauge symmetry is local the 
 Elitzur theorem forbids the use of local order parameters to distinguish 
 the two phases. The static potential between two static sources,
 
@@ -18,8 +18,8 @@ potential at large distance (perimeter law) signals deconfinement.
 
 ## Contents
 
-- `z2model.c` — lattice Monte Carlo simulation and Wilson loop measurement
-- `observables.c` — Jackknife analysis of Wilson loop data
+- `src/z2model.c` — lattice Monte Carlo simulation and Wilson loop measurement
+- `src/observables.c` — Jackknife analysis of Wilson loop data
 - `lib/` — random number generator and lattice geometry utilities
 
 ## Method
